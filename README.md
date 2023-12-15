@@ -27,7 +27,7 @@ Para realizar el streaming de manera local, usamos [Unity Render Streaming](http
 El servidor se ejecutara en el puerto 80.
 ![Alt text](image-1.png)
 
-https://youtu.be/OMJxI5lMXtw
+https://github.com/6162636465/Holograma-con-kinect/assets/70419764/9dd124be-6dc7-47c9-989e-023d6a013add
 
 ## 4. Streaming de Point Clouds a Internet en multiples dispositivos 
 
